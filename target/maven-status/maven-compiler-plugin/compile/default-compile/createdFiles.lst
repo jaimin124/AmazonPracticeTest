@@ -1,0 +1,6 @@
+com\amazon\qa\pages\LoginPage.class
+com\amazon\qa\pages\SignUpPage.class
+com\amazon\qa\base\TestBase.class
+com\amazon\qa\util\TestUtil.class
+com\amazon\qa\pages\SearchPage.class
+com\amazon\qa\pages\HomePage.class
